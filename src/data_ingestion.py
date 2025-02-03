@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from sklearn.model_selection import train_test_split
 import logging
-import yaml
+import yaml 
 
 
 # Ensure the "logs" directory exists
